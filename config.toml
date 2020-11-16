@@ -1,4 +1,4 @@
-baseURL = "http://jahio.github.io"
+baseURL = "https://jah.io"
 languageCode = "en-us"
 title = "J. Austin Hughey: Developer Notebook"
 theme = "terminal"
