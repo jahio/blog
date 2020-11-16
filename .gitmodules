@@ -1,3 +1,7 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "jahio.github.io"]
+	path = jahio.github.io
+	url = git@github.com:jahio/jahio.github.io.git
+	branch = master

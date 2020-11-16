@@ -2,7 +2,7 @@ baseURL = "http://jahio.github.io"
 languageCode = "en-us"
 title = "J. Austin Hughey: Developer Notebook"
 theme = "terminal"
-paginate = 5
+paginate = 25
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -41,8 +41,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "jahio"
-  site = "jahio"
+  creator = "jahrocks"
+  site = "jahrocks"
 
 [languages]
   [languages.en]
@@ -59,15 +59,15 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Home"
+      logoText = "> cd $HOME"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+  #  [languages.en.menu]
+  #    [[languages.en.menu.main]]
+  #      identifier = "about"
+  #      name = "About"
+  #      url = "/about"
+  #    [[languages.en.menu.main]]
+  #      identifier = "showcase"
+  #      name = "Showcase"
+  #      url = "/showcase"
