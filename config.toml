@@ -59,7 +59,7 @@ paginate = 25
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "> cd $HOME"
+      logoText = "$ cd ~"
       logoHomeLink = "/"
 
   #  [languages.en.menu]
